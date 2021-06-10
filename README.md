@@ -50,7 +50,9 @@ UTENTI BUSINESS
 - email: terzaprova@busi.com    password: 1234
 - email: quartaprova@busi.com   password: 1234
 
-Una volta effettuata la login si aprirà la Home che contiene l'elenco di tutte le aziende registrate sul sito e in menù a tendina in alto a sinistra che serve per spostarsi tra le varie pagine(Il menù è presente in tutte le pagine tranne nella login).
+la differenza tra un utente business e uno normale e che l'utente business può accedere ad una pagina in più, dove può modifare il proprio menù.  
+
+Una volta effettuata la login si aprirà la Home che contiene l'elenco di tutte le aziende registrate sul sito e un menù a tendina in alto a sinistra che serve per spostarsi tra le varie pagine(Il menù è presente in tutte le pagine tranne nella login).
 
 Ogni azienda ha le proprie informazioni e un'icona di un cuore, se il cuore è colorato di nero significa che l'azienda è tra i preferiti, invece, se l'icona è un cuore vuoto solo con un contorno nero, no (cliccando sul cuore si può perciò aggiungere o rimuovere l'azienda dai preferiti).
 
