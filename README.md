@@ -11,11 +11,11 @@ Link per vedere la web app: https://christiandesposito.pythonanywhere.com
 
 link per vedere la presentazione del progetto: https://drive.google.com/file/d/1ejomd7lZEuGHXiYt1qTU5m34WDgkVj1-/view?usp=sharing
 
-=====================================================================================
+===========================================================================
 
 In cosa consiste l'app in breve
 
-=====================================================================================
+===========================================================================
 
 Just Menu` è un sito dove i gestori di un’azienda ( pizzeria , ristoranti , pub ecc..) possono inserire il proprio menù contente gli articoli per la propria clientela. 
 
@@ -26,11 +26,11 @@ La clientela può:
 - salvare le aziende in una lista di preferiti.
 
 
-=====================================================================================
+===========================================================================
 
 Come testare l'app
 
-=====================================================================================
+===========================================================================
 
 Cliccando il link del sito , si aprirà una schermata di login.
 
