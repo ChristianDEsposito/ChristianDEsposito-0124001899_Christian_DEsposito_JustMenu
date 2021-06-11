@@ -15,11 +15,11 @@ Link per vedere la web app: https://christiandesposito.pythonanywhere.com
 
 link per vedere la presentazione del progetto: https://drive.google.com/file/d/1CgK7hMkKODwmNuE0S9csz2WLNhFjCS-K/view?usp=sharing
 
-===========================================================================
+==========================================================================
 
 In cosa consiste l'app in breve
 
-===========================================================================
+==========================================================================
 
 Just Menu` è un sito dove i gestori di un’azienda ( pizzeria , ristoranti , pub ecc..) possono inserire il proprio menù contenente gli articoli per la propria clientela. 
 
@@ -29,19 +29,19 @@ La clientela può:
 - Visualizzare le informazioni dell’azienda che li propone 
 - salvare le aziende in una lista di preferiti.
 
-===========================================================================
+==========================================================================
 
 Dove si trova il progetto
 
-===========================================================================
+==========================================================================
 
 Il progetto con tutti i file del sito si trova nella cartella "mysite", all'interno troverete subito l'index e il file python. Nelle cartelle invece si trovano i vari file js,css,le altre pagine html...ecc.
 
-===========================================================================
+==========================================================================
 
 Come testare l'app
 
-===========================================================================
+==========================================================================
 
 Cliccando il link del sito , si aprirà una schermata di login.
 
@@ -75,8 +75,8 @@ Un'altra pagina invece è "menù" ( pagina disponibile solo per gli utenti busin
 
 Alla fine del menù a tendina c'è un altro tasto: "logout" che ci riportera alla schermata di login. 
 
-===========================================================================
+==========================================================================
 
 !ATTENZIONE! Può capitare che in alcune pagine non venga visualizzato nulla, per risolvere questo problema basta cambiare pagina dal menù a tendina per poi ritornare alla pagina precedente sempre con il menù a tendina. E` stato provato a risolvere il problema più volte, ma sembra che sia un problema di pytonanuwhere.
 
-===========================================================================
+==========================================================================
