@@ -17,7 +17,7 @@ In cosa consiste l'app in breve
 
 ===========================================================================
 
-Just Menu` è un sito dove i gestori di un’azienda ( pizzeria , ristoranti , pub ecc..) possono inserire il proprio menù contente gli articoli per la propria clientela. 
+Just Menu` è un sito dove i gestori di un’azienda ( pizzeria , ristoranti , pub ecc..) possono inserire il proprio menù contenente gli articoli per la propria clientela. 
 
 La clientela può: 
 
