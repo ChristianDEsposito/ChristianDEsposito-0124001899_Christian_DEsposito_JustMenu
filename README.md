@@ -62,3 +62,5 @@ Un'altra pagina che si può trovare nel menù a tendina è "preferiti", che cont
 
 Un'altra pagina invece è "menù" ( pagina disponibile solo per gli utenti business ), dove si trovano tutti gli articoli che l'account ha nel proprio menù. Da questa pagina l'utente può modificare,aggiungere ( con l'icona del + ) o eliminare ( con l'icona del - ) i propri articoli dal menù ; prima di uscire da questa pagina bisogna ricordarsi di cliccare l'icona con la "spunta" per salvare le modifiche effettuate al menù.
 
+In fine nel menù a tendina c'è un altro tasto: "logout" che ci riportera alla schermata di login. 
+
