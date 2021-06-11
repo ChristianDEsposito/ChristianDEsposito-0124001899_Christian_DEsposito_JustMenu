@@ -64,3 +64,6 @@ Un'altra pagina invece è "menù" ( pagina disponibile solo per gli utenti busin
 
 In fine nel menù a tendina c'è un altro tasto: "logout" che ci riportera alla schermata di login. 
 
+===========================================================================
+
+!ATTENZIONE! Può capitare che in alcune pagine non venga visualizzato niente, per risolvere questo problema basta cambiare pagina dal menù a tendina per poi ritornare alla pagina precedente sempre con il menù a tendina. Questo problema è stato provato a risolvere più volte, ma sembra che sia un problema di pytonanuwhere.
