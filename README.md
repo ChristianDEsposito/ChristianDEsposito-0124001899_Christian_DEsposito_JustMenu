@@ -7,7 +7,9 @@ Università: Università degli Studi di Napoli Parthenope
 
 Corso: Informatica
 
-Progetto: Just Menu`
+Progetto per il corso: Tecnologie Web
+
+Titolo Progetto: Just Menu` 
 
 Link per vedere la web app: https://christiandesposito.pythonanywhere.com
 
