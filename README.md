@@ -9,7 +9,7 @@ Progetto: Just Menu`
 
 Link per vedere la web app: https://christiandesposito.pythonanywhere.com
 
-link per vedere la presentazione del progetto: https://drive.google.com/file/d/1ejomd7lZEuGHXiYt1qTU5m34WDgkVj1-/view?usp=sharing
+link per vedere la presentazione del progetto: https://drive.google.com/file/d/1CgK7hMkKODwmNuE0S9csz2WLNhFjCS-K/view?usp=sharing
 
 ===========================================================================
 
