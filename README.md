@@ -42,11 +42,11 @@ Si può cliccare su due pulsanti:
 
 questi sono alcuni account già presenti nel DB:
 
-UTENTI NORMALI
+ACCOUNT UTENI NORMALI
 - email: provauser@normale.it   password: 1234
 - email: quinta@prova.it        password: 1234
 
-UTENTI BUSINESS
+ACCOUNT UTENTI BUSINESS
 - email: terzaprova@busi.com    password: 1234
 - email: quartaprova@busi.com   password: 1234
 
@@ -56,7 +56,7 @@ Una volta effettuata la login si aprirà la Home che contiene l'elenco di tutte 
 
 Ogni azienda ha le proprie informazioni e un'icona di un cuore, se il cuore è colorato di nero significa che l'azienda è tra i preferiti, invece, se l'icona è un cuore vuoto solo con un contorno nero, no (cliccando sul cuore si può perciò aggiungere o rimuovere l'azienda dai preferiti).
 
-Ogni azienda può essere cliccata, al click si aprirà una nuova finestra che conterrà il menù dell'azienda cliccata e di nuovo le info dell'azienda e il cuore dei preferiti; sotto a tutto c'è un tasto per tornare alla home o si può usare il menù a tendina per spostarsi su altre pagine.
+Ogni azienda può essere cliccata, al click si aprirà una nuova finestra che conterrà il menù dell'azienda cliccata, di nuovo le info dell'azienda e il cuore dei preferiti; sotto a tutto c'è un tasto per tornare alla home o si può usare il menù a tendina per spostarsi su altre pagine.
 
 Un'altra pagina che si può trovare nel menù a tendina è "preferiti", che contiene tutte le aziende aggiunte ai preferiti (cioè quelle con il cuoricino nero pieno)
 
