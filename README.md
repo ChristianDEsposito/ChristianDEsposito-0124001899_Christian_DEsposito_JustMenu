@@ -73,6 +73,6 @@ Alla fine del menù a tendina c'è un altro tasto: "logout" che ci riportera all
 
 ===========================================================================
 
-!ATTENZIONE! Può capitare che in alcune pagine non venga visualizzato niente, per risolvere questo problema basta cambiare pagina dal menù a tendina per poi ritornare alla pagina precedente sempre con il menù a tendina. E` stato provato a risolvere il problema più volte, ma sembra che sia un problema di pytonanuwhere.
+!ATTENZIONE! Può capitare che in alcune pagine non venga visualizzato nulla, per risolvere questo problema basta cambiare pagina dal menù a tendina per poi ritornare alla pagina precedente sempre con il menù a tendina. E` stato provato a risolvere il problema più volte, ma sembra che sia un problema di pytonanuwhere.
 
 ===========================================================================
