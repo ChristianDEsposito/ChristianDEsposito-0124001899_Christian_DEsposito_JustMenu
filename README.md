@@ -31,7 +31,7 @@ Dove si trova il progetto
 
 ===========================================================================
 
-Il progetto con tutti i file del sito si trova nella cartella "mysite", all'interno troverete subito l'index e il file pyton, poi nella cartelle è contenuto il resto.
+Il progetto con tutti i file del sito si trova nella cartella "mysite", all'interno troverete subito l'index e il file python. Nelle cartelle invece si trovano i vari file js,css,le altre pagine html...ecc.
 
 ===========================================================================
 
